@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+streamlit
+matplotlib
+seaborn
+
+# Optional (uncomment if used in your app)
+# shap
+# plotly
