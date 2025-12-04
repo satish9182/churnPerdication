@@ -1,0 +1,32 @@
+
+1. CHURN RATE: 26.5% customers are churning
+
+2. TENURE:
+   - Customers with low tenure (<12 months) have higher churn
+   - Long-term customers are more loyal
+
+3. MONTHLY CHARGES:
+   - Customers with high monthly charges (>$70) tend to churn more
+   - Average: $64.76
+
+4. CONTRACT TYPE:
+   - Month-to-month: ~43% churn rate (HIGH RISK!)
+   - One year: ~11% churn rate
+   - Two year: ~3% churn rate (MOST LOYAL)
+
+5. INTERNET SERVICE:
+   - Fiber optic users: Higher churn (41%)
+   - DSL users: Lower churn (19%)
+   - No internet: Lowest churn (7%)
+
+6. TECH SUPPORT:
+   - No tech support: 42% churn
+   - With tech support: 15% churn
+
+7. PAYMENT METHOD:
+   - Electronic check: 45% churn (HIGHEST RISK!)
+   - Other methods: 15-18% churn
+
+8. SENIOR CITIZENS:
+   - Senior citizens: 41% churn rate
+   - Non-seniors: 24% churn rate

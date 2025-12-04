@@ -1,0 +1,2 @@
+model_name,train_samples,test_samples,features,cv_mean_accuracy,cv_std_accuracy,train_accuracy,train_precision,train_recall,train_f1,test_accuracy,test_precision,test_recall,test_f1
+Logistic Regression,5634,1409,20,0.7988958252232858,0.01764670495352961,0.8012069577564785,0.6520681265206812,0.5377926421404682,0.5894428152492669,0.7934705464868701,0.6309148264984227,0.5347593582887701,0.5788712011577424

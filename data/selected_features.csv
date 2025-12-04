@@ -1,0 +1,21 @@
+feature
+ContractScore
+tenure
+IsNewCustomer
+InternetService_Fiber optic
+Contract_Two year
+PaymentMethod_Electronic check
+PaymentRisk
+StreamingTV_No internet service
+OnlineBackup_No internet service
+OnlineSecurity_No internet service
+TechSupport_No internet service
+DeviceProtection_No internet service
+StreamingMovies_No internet service
+InternetService_No
+IsHighValue
+TotalCharges
+MonthlyCharges
+PaperlessBilling
+Contract_One year
+OnlineSecurity_Yes
